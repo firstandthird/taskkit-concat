@@ -1,6 +1,6 @@
 {
   "name": "taskkit-concat",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "taskkit task for concatenating files",
   "main": "scripts.js",
   "scripts": {
